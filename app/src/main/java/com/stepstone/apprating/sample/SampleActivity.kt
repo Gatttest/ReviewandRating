@@ -47,6 +47,7 @@ class SampleActivity : FragmentActivity(), RatingDialogListener {
         //  this is tst code
         // this is test 2
         // test3333
+        // test 4444
     }
 
     private fun showRatingDialog_example2() {
