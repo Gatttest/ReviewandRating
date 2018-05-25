@@ -44,6 +44,7 @@ class SampleActivity : FragmentActivity(), RatingDialogListener {
                 .setHintTextColor(R.color.hintTextColor)
                 .create(this@SampleActivity)
                 .show()
+        //  this is tst code
     }
 
     private fun showRatingDialog_example2() {
